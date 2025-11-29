@@ -55,4 +55,9 @@ Proyecto_SQL_Gabriel_Martinez/
 │   ├── ventas_por_categoria.png
 │   └── cover_black.png
 │
+├── backup/   ← Carpeta opcional para respaldo
+│   ├── Creacion_objetos.txt
+│   └── Insercion_de_datos.txt
+│ 
+│
 └── README.md
