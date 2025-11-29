@@ -35,7 +35,3 @@ El objetivo principal es diseñar e implementar una **base de datos relacional c
 - Generar informes basados en datos reales de la BD.
 - Crear visualizaciones externas (Excel/Python).
 - Permitir consultas frecuentes como ventas por categoría, stock mínimo y pedidos pendientes.
-
----
-
-## 🗂 Estructura del Repositorio
