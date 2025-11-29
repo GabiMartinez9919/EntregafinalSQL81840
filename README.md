@@ -35,3 +35,24 @@ El objetivo principal es diseñar e implementar una **base de datos relacional c
 - Generar informes basados en datos reales de la BD.
 - Crear visualizaciones externas (Excel/Python).
 - Permitir consultas frecuentes como ventas por categoría, stock mínimo y pedidos pendientes.
+
+---
+
+## 🗂 Estructura del Repositorio
+
+```text
+Proyecto_SQL_Gabriel_Martinez/
+│
+├── PDF/
+│   └── Proyecto_Final_Completo_Gabriel_Martinez_V4.pdf
+│
+├── Scripts/
+│   ├── 01_creacion_objetos.sql
+│   └── 02_insercion_datos.sql
+│
+├── Recursos/
+│   ├── tablas.png
+│   ├── ventas_por_categoria.png
+│   └── cover_black.png
+│
+└── README.md
